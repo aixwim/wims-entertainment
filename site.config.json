@@ -1,0 +1,26 @@
+{
+  "repo": "wims-entertainment",
+  "siteName": "Wim Entertainment",
+  "logoText": "entertainment",
+  "logoPrefix": "wim",
+  "tagline": "Tagline Wim Entertainment",
+  "description": "Deskripsi meta Wim Entertainment.",
+  "ogTitle": "Judul OG<br>untuk Wim Entertainment",
+  "ogSubtitle": "Subtitle OG singkat dan informatif.",
+  "category": "entertainment",
+  "categoryLabel": "Entertainment",
+  "parent": "wims",
+  "children": [],
+  "related": [
+    "wims-game",
+    "wims-selebritas"
+  ],
+  "brand": {
+    "accent": "#d946ef",
+    "accent2": "#c026d3"
+  },
+  "giscus": {
+    "repoId": "REPO_ID",
+    "categoryId": "CATEGORY_ID"
+  }
+}
