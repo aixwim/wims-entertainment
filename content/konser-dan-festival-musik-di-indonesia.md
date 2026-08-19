@@ -3,6 +3,8 @@ title: "Konser dan Festival Musik di Indonesia: Geliat Panggung Hidup"
 date: "2026-08-19"
 category: "Entertainment"
 excerpt: "Konser dan festival musik kembali meriah di Indonesia, menghadirkan pengalaman langsung yang tak bisa digantikan oleh layar mana pun."
+meta_title: "Konser dan Festival Musik di Indonesia"
+meta_description: "Konser dan festival musik kembali meriah di Indonesia, menghadirkan pengalaman langsung yang tak tergantikan layar serta tips agar momennya berkesan."
 tags: ["konser", "festival", "musik", "hiburan"]
 ---
 

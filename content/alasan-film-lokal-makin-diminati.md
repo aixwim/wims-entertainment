@@ -3,6 +3,8 @@ title: "Alasan Film Lokal Makin Diminati Penonton Indonesia"
 date: "2026-08-19"
 category: "Entertainment"
 excerpt: "Kualitas cerita, teknologi, dan kebanggaan budaya membuat film lokal Indonesia semakin digemari di tengah persaingan film asing."
+meta_title: "Alasan Film Lokal Makin Diminati Penonton Indonesia"
+meta_description: "Kualitas cerita yang dekat dengan keseharian, lompatan teknologi produksi, dan kebanggaan budaya membuat film lokal Indonesia semakin digemari penonton."
 tags: ["film indonesia", "bioskop", "film lokal", "industri film"]
 ---
 

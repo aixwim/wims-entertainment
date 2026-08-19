@@ -3,6 +3,8 @@ title: "Tips Menonton Film Secara Kritis: Lebih dari Sekadar Hiburan"
 date: "2026-08-19"
 category: "Entertainment"
 excerpt: "Menonton film secara kritis membuka pengalaman yang lebih kaya, mulai dari memahami pesan hingga menilai unsur teknis yang membangun cerita."
+meta_title: "Tips Menonton Film Secara Kritis"
+meta_description: "Amati struktur cerita, unsur teknis, dan konteks saat menonton film secara kritis agar pengalaman menonton Anda lebih kaya dan bermakna."
 tags: ["kritik film", "film", "penonton", "analisis"]
 ---
 

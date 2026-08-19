@@ -3,6 +3,8 @@ title: "Daya Tarik Variety Show di Layar Kaca"
 date: "2026-08-18"
 category: "Entertainment"
 excerpt: "Mengapa variety show begitu digemari, dari unsur humor, interaksi bintang tamu, hingga perannya sebagai hiburan keluarga."
+meta_title: "Daya Tarik Variety Show di Layar Kaca"
+meta_description: "Variety show digemari karena menghadirkan humor, interaksi bintang tamu, dan hiburan ringan untuk semua usia yang terus berkembang mengikuti zaman."
 tags: ["variety show", "hiburan", "acara televisi"]
 ---
 

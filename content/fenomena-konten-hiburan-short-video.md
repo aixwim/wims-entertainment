@@ -3,6 +3,8 @@ title: "Fenomena Konten Hiburan Short Video yang Mengubah Kebiasaan"
 date: "2026-08-19"
 category: "Entertainment"
 excerpt: "Short video mengubah cara orang menikmati hiburan dengan format singkat yang adiktif, cepat, dan selalu mudah dijangkau di layar ponsel."
+meta_title: "Fenomena Konten Hiburan Short Video"
+meta_description: "Short video mengubah cara menikmati hiburan dengan format singkat yang adiktif, berdampak pada industri musik dan film, jadi konsumsilah dengan bijak."
 tags: ["short video", "digital", "hiburan", "streaming"]
 ---
 

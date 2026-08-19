@@ -3,6 +3,8 @@ title: "Musik Independen Indonesia: Geliat Kreativitas Tanpa Label"
 date: "2026-08-19"
 category: "Entertainment"
 excerpt: "Musisi independen Indonesia membuktikan bahwa karya berkualitas bisa lahir dan dikenal tanpa harus bergantung pada label besar."
+meta_title: "Musik Independen Indonesia: Geliat Kreativitas Tanpa Label"
+meta_description: "Musisi independen Indonesia membuktikan karya berkualitas bisa lahir tanpa label besar lewat kebebasan berkreasi, strategi mandiri, dan dukungan pendengar."
 tags: ["musik indie", "musik", "musisi independen", "kreativitas"]
 ---
 

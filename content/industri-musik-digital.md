@@ -3,6 +3,8 @@ title: "Evolusi Industri Musik di Era Digital"
 date: "2026-08-18"
 category: "Entertainment"
 excerpt: "Bagaimana teknologi mengubah cara kita mendengar, membeli, dan menikmati musik, dari era fisik hingga platform streaming modern."
+meta_title: "Evolusi Industri Musik di Era Digital"
+meta_description: "Telusuri evolusi industri musik dari era kaset dan CD hingga platform streaming, serta dampaknya bagi musisi dan pendengar di era digital."
 tags: ["industri musik", "musik digital", "platform streaming"]
 ---
 

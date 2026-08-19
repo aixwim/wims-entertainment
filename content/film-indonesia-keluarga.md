@@ -3,6 +3,8 @@ title: "Memilih Film Indonesia untuk Ditonton Bersama Keluarga"
 date: "2026-08-18"
 category: "Entertainment"
 excerpt: "Panduan memilih film Indonesia yang aman dan menghibur untuk ditonton bersama keluarga, dari genre hingga waktu tayang yang tepat."
+meta_title: "Memilih Film Indonesia untuk Ditonton Bersama Keluarga"
+meta_description: "Pilih film Indonesia yang aman dan menghibur untuk nonton bareng keluarga: tentukan genre, periksa rating dan durasi, lalu ciptakan suasana yang hangat."
 tags: ["film indonesia", "nonton bareng keluarga", "film keluarga"]
 ---
 
